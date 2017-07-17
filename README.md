@@ -2,7 +2,7 @@
 Public projects built by xam.
 
 # About XAM.
-eXtensible Application Management frmaeworks based on NodeJS.
+eXtensible Application Management frameworks based on NodeJS.
 
 # Global Architecture.
 - Client : xam-client-nwjs
